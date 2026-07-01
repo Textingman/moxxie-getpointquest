@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Get Point Quest - AI-Powered Points and Rewards Quest",
-  description: "Get Point Quest helps you maximize your points and rewards with AI-powered guidance. Get instant, unbiased answers — no salespeople, no pressure.",
+  title: "Get Point Quest - Online Games That Earn You Aura Points and Rewards",
+  description: "Get Point Quest is the ultimate online gaming platform where you play games and earn aura points. Level up your rewards — no pressure, just gaming.",
 };
 
 export default function RootLayout({
