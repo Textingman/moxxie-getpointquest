@@ -47,7 +47,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#FDE68A' }}>support@getpointquest.com</p>
             <p className="mt-2" style={{ color: '#FDE68A' }}>8 The Green, Ste A, Dover, DE 19901</p>
-            <p className="mt-2" style={{ color: '#FDE68A' }}></p>
+            <p className="mt-2" style={{ color: '#FDE68A' }}>(833) 729-1045</p>
           </div>
         </div>
         <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #F59E0B', color: '#FDE68A' }}>
