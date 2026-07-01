@@ -17,11 +17,11 @@ export default function HomePage() {
               AI-Powered — 100% Independent
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
-              Your Personal Quest
-              <span className="block" style={{ color: '#F59E0B' }}>for Points and Rewards</span>
+              Play Games, Earn Aura
+              <span className="block" style={{ color: '#F59E0B' }}>Level Up Your Rewards</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Get instant, unbiased guidance on maximizing your points and rewards — no salespeople, no pressure, just honest answers.
+              Join the ultimate online gaming quest — play games, earn aura points, and unlock exclusive rewards. No pressure, just pure gaming glory.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link href="/signup" className="px-8 py-4 text-white text-lg font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#F59E0B' }}>
