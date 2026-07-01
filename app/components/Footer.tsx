@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Get Point Quest</h3>
             <p style={{ color: '#FDE68A' }}>
-              Your AI-powered quest for points, rewards, and smarter decisions.
+              Play online games, earn aura, and level up your rewards.
             </p>
             {/* Social Icons */}
             <div className="flex items-center gap-4 mt-4">
